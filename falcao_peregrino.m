@@ -12,7 +12,7 @@ mu_inf = 1.789E-5;
 rho_inf = 1.225;
 
 h = 0.01;
-x = 0:h:5;
+x = 0:h:0.3;
 
 %% Espessura da Camada Limite de Velocidade
 for i = 1 : length(x)
